@@ -5,7 +5,7 @@ This repository contains the code and research paper for a deep learning framewo
 
 ## Repository Contents
 
-- `GastroIntestinal.pdf` – The full research paper detailing the methodology, experiments, results, and analysis.
+- `GastroIntestinal Disease.pdf` – The full research paper detailing the methodology, experiments, results, and analysis.
 - `Code.ipynb` – Jupyter Notebook containing the code implementation. The notebook includes:
   - Data preprocessing and image enhancement
   - Model training using EfficientNet and U-Net inspired architectures
